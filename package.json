@@ -1,0 +1,15 @@
+{
+  "name": "marginlessbot",
+  "version": "1.0.0",
+  "description": "marginless messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dziugas Butkus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
